@@ -1,0 +1,137 @@
+/*.parent {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.div1 { grid-area: 1 / 1 / 2 / 4;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    height: 60px;
+    background-color: #7878bd;
+}
+.div2 { grid-area: 2 / 1 / 3 / 4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;}
+.div3 { grid-area: 3 / 1 / 4 / 4;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+.div4 { grid-area: 4 / 1 / 6 / 4; }
+
+.sdiv1 { grid-area: 1 / 1 / 2 / 2;
+    height: 60px;
+    background-color: #7878bd;}
+.sdiv2 { grid-area: 1 / 2 / 2 / 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: #7878bd;}
+.sdiv3 { grid-area: 1 / 3 / 2 / 4;
+    display: flex;
+    height: 60px;
+    background-color: #7878bd;}
+
+.sdiv3 a {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.div4 {
+	
+	display:flex;
+	flex-direction:row;
+	margin-left: auto;
+    margin-right: auto;
+    margin-top: 7em;
+    justify-content: space-between;
+	
+}
+.cards{
+	margin-right:80px;
+}*/
+
+.navbar{
+	margin-top:50px;
+	margin-left:50px;
+	margin-right:50px;
+	
+}
+
+h1{
+	font-family: 'Syncopate', sans-serif;
+	/*margin-top:30px;
+	margin-left:30px;*/
+}
+.sdiv3{
+	display:flex;
+	justify-content: end;
+	flex-direction: row;
+	/*margin-right:30px;
+	margin-top:30px;*/
+}
+.insc{
+	
+	margin-right:15px;
+}
+.list{
+	font-family: 'Roboto', sans-serif;
+	display: flex;
+	
+	margin-top:10%;
+	
+  	flex-direction: column;
+  	justify-content: center;
+	margin-left:40%;
+	margin-right:40%;
+}
+
+.div4 {
+	
+	display:flex;
+	flex-direction:row;
+	margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 7em;
+    /*justify-content: space-between;*/
+	
+}
+.cards{
+	margin-right:80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

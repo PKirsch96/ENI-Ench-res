@@ -1,0 +1,122 @@
+@charset "UTF-8";
+*{
+	margin:0;
+}
+html{
+	scroll-behavior:smooth;
+}
+.eni1{
+	text-decoration:none;
+}
+.content{
+ width: auto;
+  height: auto;
+  padding:50px;
+  background: #F4F6FB;
+  border-radius:30px;
+  border: 1px solid white;
+  box-shadow: 10px 10px 64px 0px rgba(180, 180, 207, 0.75);
+  -webkit-box-shadow: 10px 10px 64px 0px rgba(186, 186, 202, 0.75);
+  -moz-box-shadow: 10px 10px 64px 0px rgba(208, 208, 231, 0.75);
+}
+.navbar{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	margin:0;
+	padding:30px;
+}
+.sdiv3{
+	margin-top:10px;
+	display:flex;
+	flex:row;
+}
+.connection{
+	/*margin-left:20px;*/
+	
+}
+.navbar{
+	background-color:black;
+}
+.content{
+	font-family: 'Krona One', sans-serif;
+	/*display:flex;*/
+	flex-direction: column;
+	justify-content:center;
+	align-content: center;
+	margin-top:1.5%;
+	margin-bottom:5%;
+	margin-left:35%;
+	margin-right:40%;
+	padding:auto;
+}
+.div4{
+	display:flex;
+	justify-content:center;
+	align-content: center;
+	margin-top:5%;
+	margin-left:10%;
+	margin-right:10%;
+}
+.content2{
+ width: auto;
+  height: auto;
+  padding:50px;
+  background: #F4F6FB;
+  border-radius:30px;
+  border: 1px solid white;
+  box-shadow: 10px 10px 64px 0px rgba(180, 180, 207, 0.75);
+  -webkit-box-shadow: 10px 10px 64px 0px rgba(186, 186, 202, 0.75);
+  -moz-box-shadow: 10px 10px 64px 0px rgba(208, 208, 231, 0.75);
+}
+.content2{
+	font-family: 'Krona One', sans-serif;
+	display:flex;
+	flex-direction: column;
+	justify-content:center;
+	align-content: center;
+	margin-top:1.5%;
+	margin-bottom:5%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.inscription.connection.deconnection.profil{
+	margin-right:20px;
+}
+.contenu{
+	display:flex;
+	flex-direction: column;
+	justify-content:center;
+	align-content: center;
+	padding:auto;
+	
+}
+h1{
+	font-size: x-large;
+	font-family: 'Syncopate', sans-serif;
+	color:white;
+	font-weight:700;
+}
+.search:focus{
+	margin-bottom:20px;
+	font-size:medium;
+	outline: none;
+	margin-top:10px; 
+}
+.listEnch{
+	font-weight:400;
+	font-size:large;
+	margin-bottom:40px;
+}
+
+.filtres{
+	margin-bottom:20px;
+	font-size:medium;
+}
+.categorie{
+	margin-bottom:20px;
+	font-size:medium;
+}
+.blaze{
+	font-size:medium;
+}
